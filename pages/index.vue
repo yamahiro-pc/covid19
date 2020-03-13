@@ -72,7 +72,7 @@ export default {
       dischargesGraph,
       headerItem: {
         icon: 'mdi-chart-timeline-variant',
-        title: this.$t('都内の最新感染動向'),
+        title: this.$t('都内の最新感染動向 forkテスト'),
         date: Data.lastUpdate
       },
       newsItems: News.newsItems
